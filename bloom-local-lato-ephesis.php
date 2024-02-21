@@ -7,7 +7,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Plugin Name: BLOOM - Add Lato and Ephesis locally
  * Plugin URI: https://github.com/patrickstecker/bloom-local-lato-ephesis
  * Description: This Plugin loads the Google Fonts Lato and Ephesis locally, so that your site is GDPR / DSGVO compliant.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Bloom Web Agency LLC
  * Author URI: https://bloomwebagency.com/
  */
